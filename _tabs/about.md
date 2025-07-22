@@ -33,7 +33,7 @@ order: 4
 
 
 <!-- Image aligned to the right -->
-<img align="right" height="150" src="https://i.pinimg.com/originals/30/79/27/3079277290da72f1c36fad89957c8a9d.gif" />
+<img align="right" height="150" src="https://i.pinimg.com/originals/30/79/27/3079277290da72f1c36fad89957c8a9d.gif" alt="Typing Cat GIF" />
 
 ![Line](https://raw.githubusercontent.com/bilalaniq/bilalaniq/main/gif/line2.gif)
 
